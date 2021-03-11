@@ -1,0 +1,5 @@
+[package]
+description = Adds Collective Intelligence Framework (CIF) metadata to intel logs.
+tags = log, logging, intel, intelligenece, threat intelligence, ti, CIF
+script_dir = cif
+credits = Scott Finlons <finlon@gmail.com>
