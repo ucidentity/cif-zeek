@@ -2,4 +2,5 @@
 description = Adds Collective Intelligence Framework (CIF) metadata to intel logs.
 tags = log, logging, intel, intelligenece, threat intelligence, ti, CIF
 script_dir = scripts
+aliases = cif-zeek cif
 credits = Scott Finlon <finlon@gmail.com>
