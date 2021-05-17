@@ -5,6 +5,10 @@
 
 module Intel;
 
+
+# Expire indicators after 60 minutes
+redef Intel::item_expiration = 60min;
+
 ## This file adds mapping between the Collective Intelligence Framework (CIF) and Zeek.
 
 export {
