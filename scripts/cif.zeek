@@ -1,12 +1,10 @@
 @load base/frameworks/intel
 @load frameworks/intel/seen
 @load frameworks/intel/do_notice
-@load frameworks/intel/do_expire
 
 module Intel;
 
 
-# Expire indicators after 60 minutes
 redef Intel::item_expiration = 60min;
 
 ## This file adds mapping between the Collective Intelligence Framework (CIF) and Zeek.
